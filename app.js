@@ -41,4 +41,5 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
+// basically kayak export default function bior accessible sama file lain
 module.exports = app;
